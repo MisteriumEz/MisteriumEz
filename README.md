@@ -1,4 +1,4 @@
-## Oi, eu sou __Antonio__ mas pode chamar de __Big Tony__
+## Oi, eu sou __Antonio__, mas pode me chamar de __Big Tony__
 
 ### Sobre mim  
 
