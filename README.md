@@ -1,4 +1,4 @@
-## Oi, eu sou o __Antonio__  
+## Oi, eu sou __Antonio__ mas pode chamar de __Big Tony__
 
 ### Sobre mim  
 
@@ -8,7 +8,7 @@
 
 * Aspirante a cineasta nos outros momentos
 
-* Amante de cachorros e irônicamente não posso tomar café
+* Amante de cachorros e ironicamente não posso tomar café
 
 ### Tecnologias  
 
