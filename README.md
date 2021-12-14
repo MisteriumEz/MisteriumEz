@@ -22,3 +22,6 @@
 ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 
 ![MisteriumEz GitHub Stats](https://github-readme-stats.vercel.app/api?username=MisteriumEz&theme=tokyonight&show_icons=true)
+<a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisteriumEz&layout=compact&langs_count=7&theme=react"/>
+ </a>
