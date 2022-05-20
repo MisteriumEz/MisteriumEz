@@ -10,7 +10,7 @@
 
 * Estudando [Java Script](https://www.javascript.com/), [React](https://pt-br.reactjs.org/) e um pouco de [Node.JS](https://nodejs.org/en/)
 
-* Amante de cachorros e ironicamente não posso tomar café
+* Amante de fuinhas e ironicamente não posso tomar café
 
 ### Tecnologias  
 
